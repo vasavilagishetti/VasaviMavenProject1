@@ -11,7 +11,7 @@ public class demoTest1 {
      @Test
      public void Test2(){
           demoOne test = new demoOne();
-          test.something();
+          test.addition();
      }
 
 

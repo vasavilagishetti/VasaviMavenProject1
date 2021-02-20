@@ -4,7 +4,7 @@ public class demoOne {
     int a = 2;
     int b = 4;
 
-    public void something(){
+    public void addition(){
         int c = a+b;
         //System.out.println(c);
         }
@@ -14,5 +14,8 @@ public class demoOne {
         code.something();
         }
      */
+    public boolean value(){
+        return false;
+    }
 
   }
